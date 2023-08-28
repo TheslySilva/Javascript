@@ -1,0 +1,4 @@
+const celular={
+	marca:"Samsung",
+	
+}
